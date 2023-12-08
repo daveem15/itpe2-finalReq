@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Roboto&family=Ubuntu&family=Young+Serif&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('https://wallpapers.com/images/featured/coffee-shop-background-02x9a49rdcr5c18i.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.container{
+    background-color: aliceblue;
+}

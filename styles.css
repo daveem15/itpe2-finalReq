@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Roboto&family=Ubuntu&family=Young+Serif&display=swap');
+
+body{
+    background: url('https://wallpapers.com/images/featured/coffee-shop-background-02x9a49rdcr5c18i.jpg');
+}
+.form {
+    width: 500px;
+    justify-content: center;
+    display: block;
+    background: transparent;
+    border: 1px;
+    border-color: aliceblue;
+}
+
+
+
